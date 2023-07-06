@@ -1,3 +1,4 @@
+package Arrays;
 class Compute 
 {
     static pair getMinMax(long a[], long n)  

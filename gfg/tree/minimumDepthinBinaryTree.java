@@ -1,3 +1,4 @@
+package tree;
 class Solution
 {
 	int minDepth(Node root)

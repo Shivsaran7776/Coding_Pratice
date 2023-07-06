@@ -1,3 +1,4 @@
+package String;
 class Solution
 {
     //Function to find the first non-repeating character in a string.

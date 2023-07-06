@@ -1,3 +1,4 @@
+package String;
 class Solution {
     int isPalindrome(String S) {
         // code here

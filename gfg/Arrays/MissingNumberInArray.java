@@ -1,3 +1,4 @@
+package Arrays;
 class Solution {
     int MissingNumber(int array[], int n) {
         Arrays.sort(array);

@@ -1,3 +1,4 @@
+package Arrays;
 class Solution
 {
     //Function to rotate an array by d elements in counter-clockwise direction. 

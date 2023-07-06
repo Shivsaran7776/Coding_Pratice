@@ -1,3 +1,4 @@
+package Arrays;
 class Solution {
     int findMaximum(int[] arr, int n) {
         int max = arr[0];

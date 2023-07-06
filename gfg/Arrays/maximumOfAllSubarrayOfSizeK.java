@@ -1,3 +1,4 @@
+package Arrays;
 class Solution
 {
     //Function to find maximum of each subarray of size k.
