@@ -5,7 +5,6 @@ class Solution
     static char nonrepeatingCharacter(String S)
     {
         //Your code here
-        int count =1;
         for(int i=0;i<S.length();i++)
         {
             if(S.charAt(i)==S.charAt(i+1))
