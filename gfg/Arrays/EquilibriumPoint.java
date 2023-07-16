@@ -1,6 +1,25 @@
-class Solution {
+Example 1:
 
-    
+Input: 
+n = 5 
+A[] = {1,3,5,2,2} 
+Output: 3 
+Explanation:  
+equilibrium point is at position 3 
+as elements before it (1+3) = 
+elements after it (2+2). 
+
+Example 2:
+
+Input:
+n = 1
+A[] = {1}
+Output: 1
+Explanation:
+Since its the only element hence
+its the only equilibrium point.
+
+class Solution {  
     // a: input array
     // n: size of array
     // Function to find equilibrium point in the array.
