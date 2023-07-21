@@ -1,3 +1,4 @@
+package CodingNinja.Array;
 Sample Input 1:
 6
 4 7 8 6 7 6 
