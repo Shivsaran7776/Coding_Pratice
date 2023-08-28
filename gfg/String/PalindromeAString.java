@@ -1,13 +1,13 @@
-Example 1:
+// Example 1:
 
-Input: S = "abba"
-Output: 1
-Explanation: S is a palindrome
-Example 2:
+// Input: S = "abba"
+// Output: 1
+// Explanation: S is a palindrome
+// Example 2:
 
-Input: S = "abc" 
-Output: 0
-Explanation: S is not a palindrome
+// Input: S = "abc" 
+// Output: 0
+// Explanation: S is not a palindrome
 
 package String;
 class Solution {

@@ -4,20 +4,20 @@
 
 // Output:
 // A
-// AB
-// ABC
-// ABCD
-// ABCDE
+// BB
+// CCC
+// DDDD
+// EEEEE
 
 class Solution {
 
     void printTriangle(int n) {
         // code here
-        for(char i ='A';i<'A'+n;i++)
+        for(char i = 'A';i<'A'+n;i++)
         {
             for(char j = 'A';j<=i;j++)
             {
-                System.out.print(j);
+                System.out.print(i);
             }
             System.out.println();
         }

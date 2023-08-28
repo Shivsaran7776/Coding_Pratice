@@ -1,14 +1,14 @@
-Example 1:
+// Example 1:
 
-Input: 5
+// Input: 5
 
-Output:
+// Output:
 
-*********
- *******
-  *****
-   ***
-    *
+// *********
+//  *******
+//   *****
+//    ***
+//     *
 
 class Solution{
   void printTriangle(int n) {

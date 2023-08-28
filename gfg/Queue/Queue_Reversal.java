@@ -1,10 +1,10 @@
-Input:
-6
-4 3 1 10 2 6
-Output: 
-6 2 10 1 3 4
-Explanation: 
-After reversing the given elements of the queue , the resultant queue will be 6 2 10 1 3 4.
+// Input:
+// 6
+// 4 3 1 10 2 6
+// Output: 
+// 6 2 10 1 3 4
+// Explanation: 
+// After reversing the given elements of the queue , the resultant queue will be 6 2 10 1 3 4.
 
 class GfG{
     //Function to reverse the queue.

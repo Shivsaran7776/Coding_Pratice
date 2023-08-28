@@ -1,13 +1,13 @@
-Example 1:
+// Example 1:
 
-Input: 5
+// Input: 5
 
-Output:
-ABCDE
-ABCD
-ABC
-AB
-A
+// Output:
+// ABCDE
+// ABCD
+// ABC
+// AB
+// A
 
 class Solution {
 

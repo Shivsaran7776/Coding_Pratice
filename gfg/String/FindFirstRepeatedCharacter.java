@@ -1,15 +1,15 @@
-Example 1:
+// Example 1:
 
-Input: S="geeksforgeeks"
-Output: e
-Explanation: 'e' repeats at third position.
+// Input: S="geeksforgeeks"
+// Output: e
+// Explanation: 'e' repeats at third position.
  
 
-Example 2:
+// Example 2:
 
-Input: S="hellogeeks"
-Output: l
-Explanation: 'l' repeats at fourth position.
+// Input: S="hellogeeks"
+// Output: l
+// Explanation: 'l' repeats at fourth position.
 
 class Solution 
 { 

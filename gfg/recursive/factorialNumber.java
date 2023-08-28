@@ -1,19 +1,19 @@
-Example 1:
+// Example 1:
 
-Input:
-N = 6
-Output:
-1
-Explanation:
-6 is factorial of 3
-Example 2:
+// Input:
+// N = 6
+// Output:
+// 1
+// Explanation:
+// 6 is factorial of 3
+// Example 2:
 
-Input:
-N = 5
-Output:
-0
-Explanation:
-no number's factorial is 5.
+// Input:
+// N = 5
+// Output:
+// 0
+// Explanation:
+// no number's factorial is 5.
 
 package recursive;
 import java.util.*;
