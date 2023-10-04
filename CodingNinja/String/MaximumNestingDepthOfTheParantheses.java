@@ -1,3 +1,11 @@
+// Example-1:
+//     Input: 1+(3*6+(9-3))
+//     Output: 2
+
+// Example-2:
+//    Input : (((((5))))) 
+//    Output: 5
+ 
 import java.util.*;                           
 class MaximumNestingDepthOfTheParantheses
 {
