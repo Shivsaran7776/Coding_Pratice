@@ -1,3 +1,33 @@
+// You are given an array of size N having no duplicate elements. The array can be categorized into the following:
+// 1.  Ascending
+// 2.  Descending
+// 3.  Descending Rotated
+// 4.  Ascending Rotated
+// Your task is to return which type of array it is and the maximum element of that array.
+
+ 
+
+// Example 1:
+
+// Input :
+// N = 5 
+// A[] = { 2, 1, 5, 4, 3}
+// Output :
+// 5 3
+// Explanation:
+// Descending rotated with maximum
+// element 5 
+
+// Example 2:
+
+// Input :
+// N = 5
+// A[] = { 3, 4, 5, 1, 2}
+// Output : 
+// 5 4
+// Explanation:
+// Ascending rotated with maximum element 5 
+
 import java.util.*;
 import java.lang.*;
 
