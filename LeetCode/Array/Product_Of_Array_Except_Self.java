@@ -30,3 +30,24 @@ class Solution {
         return prod;
     }
 }
+
+//Time Complexity : O(n)
+class Solution {
+    public int[] productExceptSelf(int[] nums) {
+        int n = nums.length;
+        System.out.println(n);
+        int prod[] = new int[n];
+        Arrays.fill(prod, 1);
+        int mul = 1;
+        for(int i=0;i<n;i++) {
+            prod[i] *= mul;
+            mul *= nums[i];
+        }
+        mul = 1;
+        for(int i = n-1;i>=0;i--) {
+            prod[i] *= mul;
+            mul *= nums[i];
+        }
+        return prod;
+    }
+}
